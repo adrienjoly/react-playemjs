@@ -1,0 +1,29 @@
+{
+  "name": "react-playemjs",
+  "version": "0.0.1",
+  "description": "React component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrienjoly/react-playemjs.git"
+  },
+  "keywords": [
+    "react-component",
+    "music",
+    "embed",
+    "video",
+    "youtube",
+    "playlist",
+    "deezer",
+    "soundcloud"
+  ],
+  "author": "Adrien Joly <adrien.joly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrienjoly/react-playemjs/issues"
+  },
+  "homepage": "https://github.com/adrienjoly/react-playemjs#readme"
+}
